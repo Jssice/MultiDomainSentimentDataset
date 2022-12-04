@@ -1,6 +1,9 @@
 # MultiDomainSentimentDataset
 
 Using it for assessment.
+# 1 Multi-Domain Sentiment Dataset
+Last updated: August 2, 2007
+https://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
 
 ### Dataset for Multi Domain （Including Kitchen, Books, DVDs, and Electronics）
 
@@ -20,3 +23,9 @@ A few notes regarding the data.
 Multi-Domain Sentiment Dataset (30 MB) [domain_sentiment_data.tar.gz](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/domain_sentiment_data.tar.gz)
 
 Books unlabeled data (2 MB) [book.unlabeled.gz](https://www.cs.jhu.edu/~mdredze/datasets/sentiment/book.unlabeled.gz)
+
+
+
+# 2 Multi-Domain Sentiment Dataset (version 2.0)
+Last updated: March 23, 2009
+https://www.cs.jhu.edu/~mdredze/datasets/sentiment/
